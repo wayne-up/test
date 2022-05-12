@@ -1,5 +1,5 @@
 # vue_todo
-
+![image](https://github.com/wayne-up/wayne-up/blob/main/todolist.png)
 ## Project setup
 ```
 npm install
